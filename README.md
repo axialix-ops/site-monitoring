@@ -32,7 +32,7 @@ This project provides a **simple but effective** way to monitor websites by:
 ### **Setup & Run**  
 1. **Clone the repo:**  
    ```sh
-   git clone https://github.com/your-username/site-monitoring.git && cd site-monitoring
+   git clone https://github.com/axialix-ops/site-monitoring.git && cd site-monitoring
    ```  
 
 2. **Add target URLs** to `sites.txt` (one per line):  
